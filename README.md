@@ -1,0 +1,2 @@
+# Firebase Offline Persistence Listener Issues
+This repository demonstrates a common issue encountered when using Firebase's offline persistence feature.  The problem centers around listeners not immediately updating after network reconnection, potentially leading to stale data display in applications. The bug.js file shows the problem and bugSolution.js shows a possible solution. 
